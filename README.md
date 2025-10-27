@@ -27,7 +27,7 @@ These images show genuine feedback received from learners, students, and colleag
 ### 🌟 Google Reviews
 <p align="center">
   <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Averroes.png?raw=true" width="350">
-  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Aye%20-%20Learner.png?raw=true" width="350">
+  <Lithan/Aye - Learner.png" width="350">
   <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Bryan.png?raw=true" width="350">
   <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Cho.png?raw=true" width="350">
   <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Hairul.png?raw=true" width="350">
