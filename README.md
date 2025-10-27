@@ -6,71 +6,39 @@ This repository showcases my Power BI dashboards, HR process automations, and an
 
 ---
 
-## [Project 1: HR Analytics Dashboard (Power BI)](https://app.powerbi.com/)  
-📊 **Power BI | Excel | HR Metrics | Data Visualization**
+# 📊 HR Analytics & Placement Dashboard (Power BI)
 
-This dashboard was designed to monitor placement progress, learner engagement, and employer partnerships under national workforce programs.  
+This Power BI dashboard provides end-to-end visibility into learner performance, placement outcomes, and talent specialist productivity under national workforce programs.
 
-**Key Highlights:**
-- Consolidated candidate performance, placement status, and employer activity across 20 + programs.  
-- Used Power Query for data cleaning and DAX measures for KPI tracking (placement %, lead conversion, course completion).  
-- Integrated Zoho Recruit + Forms data to automate daily reporting.  
-- Designed HR visuals and drill-down reports for management reviews.
-
-📂 *Dashboard Link (Preview)*: [View on Power BI](https://app.powerbi.com/)  
-🧾 *Tools Used*: Power BI, Excel, Zoho Recruit, Power Query, DAX
+### 🔍 Dashboard Insights:
+- Learner distribution by course, category, and grading
+- Talent placement vs own effort placement analysis
+- Job openings and candidate conversion rate tracking
+- Average F.A.C.T. (Flexibility, Articulation, Confidence, Technical) scores
+- Placement outcomes by Specialist (ST) and Course
 
 ---
 
-## [Project 2: Recruitment Automation Workflow (Power Automate + Zoho Recruit)](https://powerautomate.microsoft.com/)  
-⚙️ **Power Automate | Zoho Recruit API | HR Tech Integration**
-
-Developed a workflow to automate candidate communication and employer coordination.
-
-**Key Highlights:**
-- Integrated Microsoft Forms → Zoho Recruit → Outlook for automatic candidate updates.  
-- Reduced manual email follow-ups by 70 %.  
-- Configured triggers to notify Talent Specialists when new candidates completed career coaching sessions.  
-- Enhanced data accuracy through automated logging.
-
-📂 *Workflow Link (Preview)*: [See Flow Diagram](#)  
-🧾 *Tools Used*: Power Automate, Zoho Recruit API, Outlook Connectors, Excel Online
+### 🖼️ Dashboard Previews
+| Overview Dashboard | Placement Analytics | FACT Index Dashboard | ST Performance |
+|--------------------|--------------------|----------------------|----------------|
+| ![Dashboard 1](images/Dashboard%20PBI.png) | ![Dashboard 2](images/Dashboard%20PBI%202.png) | ![Dashboard 3](images/Dashbaord%20PBI%203.png) | ![Dashboard 4](images/Dashboard%20Azlan.png) |
 
 ---
 
-## [Project 3: Placement Performance Dashboard (Excel + Zoho Analytics)](https://zoho.com/analytics/)  
-📈 **Excel Dashboard | Zoho Analytics | Data Visualization**
-
-A dashboard to monitor placement and interview conversion rates across learners and employers.
-
-**Key Highlights:**
-- Visualized KPIs such as Interview Conversion %, Placement Time Per Candidate, and Employer Engagement.  
-- Used pivot tables + conditional formatting for real-time insights.  
-- Automated weekly updates through shared Excel forms and Zoho data sync.  
-
-📂 *Dashboard Snapshot*: [View in Zoho Analytics](#)  
-🧾 *Tools Used*: Excel (Pivot & Formulas), Zoho Analytics, Power Query
+### 🧠 Tools & Techniques
+- **Power BI** – Data modelling, DAX calculations, visual storytelling  
+- **Excel & Power Query** – Data cleaning and transformation  
+- **Zoho Recruit + Forms Integration** – Automated data capture  
+- **Data Visualization Principles** – Used consistent color logic, filters, and comparative insights  
 
 ---
 
-## [Project 4: Candidate Journey Tracker (Digital Dashboard)](#)
-🧭 **Google Data Studio | Zoho Recruit | Power Automate**
+### 📈 Purpose
+To empower HR and management teams to track learner outcomes, placement efficiency, and employer engagement in real time, improving overall workforce readiness.
 
-Designed a dashboard to visualize each candidate’s journey from enrollment → career coaching → placement.
+> “Data tells a story — my dashboards make HR performance visible, measurable, and actionable.”
 
-**Key Highlights:**
-- Tracked real-time progress for over 500 learners.  
-- Used Google Data Studio to visualize FACT Index metrics collected from Zoho Recruit.  
-- Provided actionable insights to the Talent Team for improving conversion rates.  
-
----
-
-### 📚 Skills & Tools
-**HR Systems:** Zoho Recruit, Info-Tech, HR2000  
-**Data Tools:** Power BI, Excel (Advanced Formulas + Power Query), Zoho Analytics  
-**Automation:** Power Automate, Power Apps, Microsoft Forms  
-**Reporting & Visualization:** Dashboard Design, HR Metrics Reporting  
-**Soft Skills:** Talent Acquisition, Career Coaching, Employer Engagement, HR Analytics Storytelling  
 
 ---
 
