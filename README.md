@@ -22,7 +22,7 @@ This Power BI dashboard provides end-to-end visibility into learner performance,
 ### 🖼️ Dashboard Previews
 | Overview Dashboard | Placement Analytics | FACT Index Dashboard | ST Performance |
 |--------------------|--------------------|----------------------|----------------|
-| ![Dashboard 1]([https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Dashboard%20PBI%202.png](https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Dashboard%20PBI.png)) | ![Dashboard 2](ttps://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Dashboard%20Azlan.png)) | ![Dashboard 3](https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Dashbaord%20PBI%203.png)
+| ![Dashboard 1]([Dashboard PBI.png](https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Dashboard%20PBI.png)) | ![Dashboard 2](ttps://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Dashboard%20Azlan.png)) | ![Dashboard 3](https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Dashbaord%20PBI%203.png)
 
 ---
 
