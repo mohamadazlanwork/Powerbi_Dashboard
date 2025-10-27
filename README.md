@@ -1,4 +1,4 @@
-# Mohamad Azlan’s Portfolio
+# Mohamad Azlan’s Dashboard Powerbi + Zoho Analytic
 
 Welcome to my professional portfolio!  
 I’m an HR & Talent Specialist with a passion for data-driven talent analytics, recruitment automation, and digital workforce development.  
