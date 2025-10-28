@@ -12,65 +12,57 @@
 
   <hr style="margin:25px 0; border:0; border-top:2px solid #d0e3ff;">
 
-  <!-- 🧩 PROJECT 1 -->
-  <div id="project1" style="background-color:#eaf4ff; padding:25px; border-radius:12px; margin-bottom:30px;">
-    <h2>📊 HR Analytics & Power BI Dashboards</h2>
-    <p>
-      Dashboards used to monitor placement performance, learner outcomes, and employer engagement across multiple programs.
-    </p>
+  <div style="background-color:#eaf4ff; padding:25px; border-radius:12px;">
 
-    <p align="center">
-      <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Dashboard%20PBI.png?raw=true" width="650"><br>
-      <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Dashboard%20PBI%202.png?raw=true" width="650">
-    </p>
+<h1>📊 HR Analytics & Power BI Dashboards</h1>
 
-    <p><a href="#top" style="color:#0066cc;">⬆️ Back to top</a></p>
-  </div>
+<p>
+Here are sample views of my Power BI dashboards used to monitor placement performance, learner outcomes, and employer engagement across multiple programs.
+</p>
 
-  <!-- 🧩 PROJECT 2 -->
-  <div id="project2" style="background-color:#f5f9f6; padding:25px; border-radius:12px; margin-bottom:30px;">
-    <h2>📈 Recruitment Analytics Dashboard</h2>
-    <p>
-      Visualizing end-to-end hiring funnel: candidate sourcing, interview conversion, and placement rates for better recruitment efficiency.
-    </p>
+<p align="center">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Dashboard%20PBI.png?raw=true" width="650"><br>
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Dashboard%20PBI%202.png?raw=true" width="650"><br>
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Dashbaord%20PBI%203.png?raw=true" width="650">
+</p>
 
-    <p align="center">
-      <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/RecruitmentDashboard.png?raw=true" width="650">
-    </p>
+<blockquote style="font-style:italic; color:#333;">
+These dashboards visualize KPIs such as course performance, FACT scores, placement trends, and specialist efficiency.
+</blockquote>
 
-    <p><a href="#top" style="color:#0066cc;">⬆️ Back to top</a></p>
-  </div>
+</div>
 
-  <!-- 🧩 PROJECT 3 -->
-  <div id="project3" style="background-color:#fff8e6; padding:25px; border-radius:12px; margin-bottom:30px;">
-    <h2>💡 Employee Engagement Insights</h2>
-    <p>
-      This project analyzed employee sentiment and engagement levels through surveys, highlighting trends and areas for improvement.
-    </p>
+---
 
-    <p align="center">
-      <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Engagement.png?raw=true" width="650">
-    </p>
+<div style="background-color:#fff5ea; padding:25px; border-radius:12px;">
 
-    <p><a href="#top" style="color:#0066cc;">⬆️ Back to top</a></p>
-  </div>
+<h1>💬 Recommendations & Proof of Impact</h1>
 
-  <!-- 🧩 PROJECT 4 -->
-  <div id="project4" style="background-color:#fff5ea; padding:25px; border-radius:12px;">
-    <h2>💬 Recommendations & Proof of Impact</h2>
-    <p>
-      Genuine feedback from learners and colleagues on Google Reviews and LinkedIn — proof of impact and trust.
-    </p>
+<p>
+These images show genuine feedback received from learners, students, and colleagues on Google Reviews and LinkedIn — shared as visual proof of my professional work and impact.
+</p>
 
-    <p align="center">
-      <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Linkedin.png?raw=true" width="650">
-    </p>
+<hr style="border:0; border-top:1px solid #f0cda6; margin:20px 0;">
 
-    <blockquote style="font-style:italic; color:#444;">
-      ⭐ “All testimonials are real screenshots displayed for authenticity. No text was modified.”
-    </blockquote>
+<h3>🌟 Google Reviews</h3>
+<p align="center">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Averroes.png?raw=true" width="350">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Aye%20-%20Learner.png?raw=true" width="350">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Bryan.png?raw=true" width="350">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Cho.png?raw=true" width="350">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Hairul.png?raw=true" width="350">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Htet.png?raw=true" width="350">
+</p>
 
-    <p><a href="#top" style="color:#0066cc;">⬆️ Back to top</a></p>
-  </div>
+<hr style="border:0; border-top:1px solid #f0cda6; margin:20px 0;">
+
+<h3>💼 LinkedIn Recommendations</h3>
+<p align="center">
+  <img src="https://github.com/mohamadazlanwork/Powerbi_Dashboard/blob/main/Lithan/Linkedin.png?raw=true" width="750">
+</p>
+
+<blockquote style="font-style:italic; color:#333;">
+⭐ All testimonials are authentic screenshots displayed for transparency — no edits or retyping were made.
+</blockquote>
 
 </div>
